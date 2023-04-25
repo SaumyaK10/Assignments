@@ -1,0 +1,3 @@
+1. IDE stands for Integrated Development Environment. 
+2. It is a programming environment that contains a lot of things in a single package i.e. code editor, compiler, debugger.
+3. It combines all the basic tools that developers need to write or test software. This type of environment allows an application developer to write code while compiling, debugging and executing it at the same place.
