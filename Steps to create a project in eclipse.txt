@@ -1,0 +1,10 @@
+1. Open Eclipe. 
+2. File
+3. New
+4. Project
+5. Select the type of project that needs to be created. In case of Java project, expand Java. 
+6. Java Project
+7. Next
+8. Provide Project name
+9. Next
+10. Finish.
