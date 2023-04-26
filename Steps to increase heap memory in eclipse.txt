@@ -1,0 +1,6 @@
+1. Open Eclipse. 
+2. Go to the Run option present on the top of the Eclipse. 
+3. Select Run Configurations -> Arguments.
+4. In VM arguments section just mention the heap size that you want to extend as below:
+-Xmx1024m,
+	where, Xmx depicts max size. 
