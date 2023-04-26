@@ -1,0 +1,13 @@
+1. Go to Eclipse. 
+2. Help
+3. Eclipse marketplace -> A pop up will appear. 
+4. Search for the required plugin. 
+5. click on install. 
+6. Select or unselect the feature. 
+7. Click on Confirm. 
+8. Select 'I accept the terms of the license agreements'
+9. Finish. 
+10. Eclipse will start installing the plugin.
+11. Eclipse will display a Warning pop-up, click OK. 
+12. Once the features are installed Eclipse will ask you to restart the Eclipse for the changes to take effect. Click Yes.
+13. Once the Eclipse has restarted you can verify whether the plugin was properly installed or not. Go to Help=>Eclipse Marketplace… then click on the ‘Installed‘ tab. Here you can see the list of plugins that are been installed.
