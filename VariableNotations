@@ -1,0 +1,11 @@
+int i = 10; // Correct notation
+
+int int = 20; // Incorrect notation
+
+int goto = 30; // Incorrect notation 
+
+int default = 40; // Incorrect notation
+
+int class = 50; // Incorrect notation 
+
+int j = 70; // Correct notation
